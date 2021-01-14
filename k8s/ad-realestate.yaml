@@ -13,7 +13,7 @@ spec:
         app: ad-realestate
     spec:
       containers:
-        - image: meshetr/ad-realestate:v0.3
+        - image: meshetr/ad-realestate:v0.4
           name: ad-realestate
           ports:
             - containerPort: 8080
