@@ -1,0 +1,13 @@
+package si.meshetr.adrealestate;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AdRealestateApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(AdRealestateApplication.class, args);
+    }
+
+}
